@@ -83,7 +83,9 @@ Steps performed before analysis:
 Here are some key visualizations from the analysis:
 
 * **Growth of Airbnb Listings in Paris**
-  ![Listings Growth](images/listings_growth.png)
+  ![Listings Growth](<img width="1002" height="621" alt="Image" src="https://github.com/user-attachments/assets/ddd0603b-6fca-4fbc-ab93-f373db40ba26" />
+<img width="1005" height="498" alt="Image" src="https://github.com/user-attachments/assets/d7770cfd-bc7d-42c7-aa7d-cb25ae4b657b" />
+<img width="1008" height="663" alt="Image" src="https://github.com/user-attachments/assets/367081ff-1ec9-41ad-890d-fa1966091728" />)
 
 * **Average Price by Locality**
   ![Price by Locality](images/price_locality.png)
