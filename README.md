@@ -68,11 +68,13 @@ Steps performed before analysis:
    ```bash
    git clone https://github.com/yourusername/airbnb-python-project.git
    cd airbnb-python-project
-2.Install reqiurements
-  pip install -r requirements.txt
+2. Install reqiurements
+
+   pip install -r requirements.txt
   
-3.Open Jupyter Notebook
-  jupyter notebook airbnb-python-project.ipynb
+3. Open Jupyter Notebook
+
+   jupyter notebook airbnb-python-project.ipynb
 
 4. Open `airbnb-paris-analysis.ipynb` and run the cells step by step.
 
