@@ -83,17 +83,15 @@ Steps performed before analysis:
 Here are some key visualizations from the analysis:
 
 * **Growth of Airbnb Listings in Paris**
+  <img width="1005" height="499" alt="Image" src="https://github.com/user-attachments/assets/5ebda220-0abc-481f-9ebb-7560ec3d2d71" />
 
   
-
-
 * **Average Price by Locality**
   
   <img width="1002" height="621" alt="Image" src="https://github.com/user-attachments/assets/ddd0603b-6fca-4fbc-ab93-f373db40ba26" />
 
 * **Impact of 2017 Regulation on Host Entries**
   
-
   (<img width="1008" height="663" alt="Image" src="https://github.com/user-attachments/assets/367081ff-1ec9-41ad-890d-fa1966091728" />)
 
 ---
