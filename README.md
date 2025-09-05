@@ -92,7 +92,7 @@ Here are some key visualizations from the analysis:
 
 * **Impact of 2017 Regulation on Host Entries**
   
-  (<img width="1008" height="663" alt="Image" src="https://github.com/user-attachments/assets/367081ff-1ec9-41ad-890d-fa1966091728" />)
+  <img width="1008" height="663" alt="Image" src="https://github.com/user-attachments/assets/367081ff-1ec9-41ad-890d-fa1966091728" />
 
 ---
 
